@@ -15,7 +15,7 @@ Major Required Course
 - [ ] Engg2020
 - [ ] Ceng2010
 
-#Event | #Probability
+Event | Probability
 ------------ | -------------
 Go to university | 2/3
 Late | 1/2
