@@ -7,18 +7,13 @@ Intereseted in:
 * Java
 
 Major Required Course
-- [x]Engg1100
-- [x]Engg1110
-- [x]Csci1120
-- []Csci2100
-- []Csci3250/3251
-- []Engg2020
-- []Ceng2010
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] Engg1100
+- [x] Engg1110
+- [x] Csci1120
+- [ ] Csci2100
+- [ ] Csci3250/3251
+- [ ] Engg2020
+- [ ] Ceng2010
 
 #Event | #Probability
 ------------ | -------------
