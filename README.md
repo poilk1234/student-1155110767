@@ -7,13 +7,13 @@ Intereseted in:
 * Java
 
 Major Required Course
-[x]Engg1100
-[x]Engg1110
-[x]Csci1120
-[]Csci2100
-[]Csci3250/3251
-[]Engg2020
-[]Ceng2010
+- [x]Engg1100
+- [x]Engg1110
+- [x]Csci1120
+- []Csci2100
+- []Csci3250/3251
+- []Engg2020
+- []Ceng2010
 
 
 #Event | #Probability
