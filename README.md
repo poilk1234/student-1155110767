@@ -17,8 +17,8 @@ Major Required Course
 
 Event | Probability
 ------------ | -------------
-Go to university | 2/3
-Late | 1/2
+Attend lecture | 2/3
+Being late | 1/2
 Response to social media | 1/4
 
 Wish you all and myself pass this course and have a good grade :)
